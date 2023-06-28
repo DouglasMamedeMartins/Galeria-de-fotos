@@ -2,4 +2,7 @@
 
 Projeto feito usando Next, React e tailwind
 
+Galeria de fotos
+
 Link abaixo: 
+
